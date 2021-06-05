@@ -1,0 +1,15 @@
+.button {
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: none;
+}
+
+.primary {
+  background-color: cadetblue;
+  color: white;
+}
+
+.secondary {
+  background-color: pink;
+  color: black;
+}
